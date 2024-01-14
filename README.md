@@ -4,13 +4,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>pelis 1</title>
+  <title>pelis 2</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color:  #f0f0f0;
+      background: linear-gradient(to bottom, #001f3f, #2ecc71, #3498db, #ffffff); /* Fondo degradado azul marino a verde esmeralda, azul y blanco */
+      color: black; /* Color de texto negro */
+      min-height: 100vh; /* Altura mínima del cuerpo igual al 100% de la altura del viewport */
+      display: flex;
+      flex-direction: column;
     }
 
     header {
@@ -42,9 +46,7 @@
       color: white;
       text-align: center;
       padding: 1em;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
+      margin-top: auto; /* Hace que el pie de página esté siempre en la parte inferior */
     }
   </style>
 </head>
