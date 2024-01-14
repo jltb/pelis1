@@ -1,5 +1,5 @@
 # pelis1
- <!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -55,9 +55,7 @@
   </header>
 
   <nav>
-    <a href="a">Inicio</a>
-    <a href="b">Acerca de</a>
-    <a href="c">Contacto</a>
+   
   </nav>
 
   <section>
