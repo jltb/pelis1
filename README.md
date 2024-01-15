@@ -66,7 +66,7 @@
 <body>
 
   <header>
-    <h1>entretenimiento esta página en esta desarrollo</h1>
+    <h1>entretenimiento esta página esta en desarrollo</h1>
     <p>para descargar copiar y pegar el link deseado</p>
   </header>
 
