@@ -151,6 +151,14 @@
       <p>Batman y Superman: La Batalla de los Súper Hijos: https://1fichier.com/?73rpn98hnghhrzvrrcu5</p>
       <p>Volver al futuro: https://1fichier.com/?ihau4bhakeei5phszk03</p>
       <p>Linterna Verde: https://1fichier.com/?dqg1e8u3ihnzdlo61a6f</p>
+     <p>Harry Potter y la Piedra Filosofal: Película en Modo Mágico: https://www.mediafire.com/file/rtwz8i2lmil384t/Harry.Potter.and.the.Philosophers.Stone.Magical.Movie.Mode.2021.HMAX.1080p.Sub.Lat.WWW.pelisenhd.NET.part1.rar/file</p>
+      <p>Harry Potter y la cámara secreta: https://1fichier.com/?bvbplemlscrocx005tch</p>
+      <p>Harry Potter y el prisionero de Azkaban: https://1fichier.com/?zvr0pak0rk60b3wvpgae</p>
+      <p>Harry Potter y el cáliz de fuego: https://1fichier.com/?98w2d2zlmkvo9a9dvuqg</p>
+      <p>Harry Potter y la orden del Fénix: https://1fichier.com/?whh9ngi4cwc6x5ahk50c</p>
+      <p>Harry Potter y el misterio del príncipe: https://1fichier.com/?9kbm7uj7y1wsaic1ikf3</p>
+      <p>Harry Potter y las reliquias de la muerte (1ª parte): https://1fichier.com/?2u96ckzzofa63j2x05jm</p>
+      <p>Harry Potter y las reliquias de la muerte (2ª parte): https://1fichier.com/?7rvnglqjguq3a35dcxcp</p>
       <!-- Agrega más contenido según sea necesario -->
     </div>
   </section>
