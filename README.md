@@ -61,6 +61,51 @@
     h2 {
       cursor: pointer;
     }
+     header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+
+    nav {
+      background-color: #444;
+      color: white;
+      padding: 1em;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 0.5em;
+      margin: 0 1em;
+    }
+
+    section {
+      padding: 2em;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      margin-top: auto;
+    }
+
+    /* Estilo para la bandeja de cada género */
+    .genreBandeja {
+      display: none;
+      background-color: #2ecc71; /* Verde esmeralda */
+      padding: 1em;
+      margin: 1em;
+      border: 1px solid #ccc;
+    }
+
+    /* Estilo para los títulos de género con cursor apuntador */
+    h2 {
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
