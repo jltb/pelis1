@@ -115,9 +115,9 @@ Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
     <h2 onclick="toggleGenreBandeja('animadas')">Animadas</h2>
     <div class="genreBandeja" id="animadasBandeja">
    <p><img src="calzoncillos.jpg" alt="Las aventuras del Capitán Calzoncillos">Las aventuras del Capitán Calzoncillos: La película: https://1fichier.com/?kyhwpmbx8y81g8aif8uu</p>
-      <p>Kung Fu Panda:https://1fichier.com/?j2htqpqq1859hwkmt4hm </p>
-      <p>Kung Fu Panda2:https://1fichier.com/?kisrdta9wrrmhnj6qc4g</p>
-      <p>Kung Fu Panda3:https://1fichier.com/?2i4zet5evd1rwj22po4k</p>
+      <p><img src="kun.jpg" alt="Kung Fu Panda">Kung Fu Panda:https://1fichier.com/?j2htqpqq1859hwkmt4hm </p>
+      <p><img src="kun 2.jpg" alt="Kung Fu Panda2">Kung Fu Panda2:https://1fichier.com/?kisrdta9wrrmhnj6qc4g</p>
+      <p><img src="kun 3.jpg" alt="Kung Fu Panda3">Kung Fu Panda3:https://1fichier.com/?2i4zet5evd1rwj22po4k</p>
       <p>Intensa Mente: https://1fichier.com/?910wflsfbwabgwaqpgin</p>
       <p>La Princesa y el Sapo: https://1fichier.com/?oe59ebtqkyzsdmos6vhk</p>
       <p>Lilo y Stitch: https://1fichier.com/?g8fcc7916795t6iy107o</p>
