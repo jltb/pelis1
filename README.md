@@ -78,9 +78,19 @@
   <section>
     <h2 onclick="toggleGenreBandeja('accion')">Acción</h2>
     <div class="genreBandeja" id="accionBandeja">
-      <p><img src="ronin.jpg" alt="Ronin">Ronin: https://1fichier.com/?913aj0e84deypgt5yc3i</p>
-      <p><img src="Lobo Solitario McQuade.jpg" alt="Lobo Solitario McQuade">Lobo Solitario McQuade: https://1fichier.com/?i6bgpttwpokf78mq2tlo</p>
-      <p><img src="La caída del halcón negro.jpg" alt="La caída del halcón negro">La caída del halcón negro: https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
+      <p><img src="ronin.jpg" alt="Ronin">Ronin:info:Ronin" es una película de acción y thriller dirigida por John Frankenheimer y lanzada en 1998. Aquí tienes información básica sobre la película:
+     Título completo: Ronin
+     Año de lanzamiento: 1998
+     Director: John Frankenheimer :https://1fichier.com/?913aj0e84deypgt5yc3i</p>
+      <p><img src="Lobo Solitario McQuade.jpg" alt="Lobo Solitario McQuade">Lobo Solitario McQuade:info:"Lobo Solitario McQuade" es una película de acción estadounidense dirigida por Steve Carver y lanzada en 1983. La película destaca por su protagonista, Chuck Norris, quien interpreta al personaje principal, J.J. McQuade. Aquí tienes información básica sobre la película:
+     Título completo: Lobo Solitario McQuade (Lone Wolf McQuade)
+     Año de lanzamiento: 1983
+     Director: Steve Carver  :https://1fichier.com/?i6bgpttwpokf78mq2tlo</p>
+      <p><img src="La caída del halcón negro.jpg" alt="La caída del halcón negro">La caída del halcón negro:La caída del Halcón Negro" (Black Hawk Down) es una película de guerra dirigida por Ridley Scott y lanzada en el año 2001. La película se basa en el libro "Black Hawk Down" de Mark Bowden, que narra los eventos reales ocurridos durante la Batalla de Mogadiscio en 1993. Aquí tienes información básica sobre la película:
+
+     Título completo: La caída del Halcón Negro (Black Hawk Down)
+     Año de lanzamiento: 2001
+     Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p><img src="El día después de mañana.jpg" alt="El día después de mañana">El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
       <p><img src="Lift Un robo de primera clase.jpg" alt="Lift: Un robo de primera clase:">Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
       <p><img src="Juego de roles.jpg" alt="Juego de roles">Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
