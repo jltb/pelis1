@@ -120,8 +120,8 @@ Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p><img src="kun 3.jpg" alt="Kung Fu Panda3">Kung Fu Panda3:https://1fichier.com/?2i4zet5evd1rwj22po4k</p>
       <p><img src="intensa.jpg" alt="Intensa Mente">Intensa Mente: https://1fichier.com/?910wflsfbwabgwaqpgin</p>
       <p><img src="prince.jpg" alt="La Princesa y el Sapo">La Princesa y el Sapo: https://1fichier.com/?oe59ebtqkyzsdmos6vhk</p>
-      <p>Lilo y Stitch: https://1fichier.com/?g8fcc7916795t6iy107o</p>
-      <p>Enredados: https://1fichier.com/?vjqehbphhalaamg6jxxr</p>
+      <p><img src="lil.jpg" alt="Lilo y Stitch">Lilo y Stitch: https://1fichier.com/?g8fcc7916795t6iy107o</p>
+      <p><img src="enre.jpg" alt="Enredados">Enredados: https://1fichier.com/?vjqehbphhalaamg6jxxr</p>
       <!-- Agrega más contenido según sea necesario -->
     </div>
 
