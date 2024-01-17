@@ -71,7 +71,7 @@
     <p>para descargar copiar y pegar el link deseado</p>
     <p>me da flojera poner toda la info</p>
   </header>
-  <h2><img src="cam2.png"alt="bienvenidos a pelis1">bienvenidos a pelis1</h2>
+  <h2>bienvenidos a pelis1</h2>
 
   <nav>
     <!-- Contenido del menú de navegación -->
@@ -119,8 +119,8 @@ Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p><img src="kun.jpg" alt="Kung Fu Panda">Kung Fu Panda:https://1fichier.com/?j2htqpqq1859hwkmt4hm </p>
       <p><img src="kun 2.jpg" alt="Kung Fu Panda2">Kung Fu Panda2:https://1fichier.com/?kisrdta9wrrmhnj6qc4g</p>
       <p><img src="kun 3.jpg" alt="Kung Fu Panda3">Kung Fu Panda3:https://1fichier.com/?2i4zet5evd1rwj22po4k</p>
-      <p>Intensa Mente: https://1fichier.com/?910wflsfbwabgwaqpgin</p>
-      <p>La Princesa y el Sapo: https://1fichier.com/?oe59ebtqkyzsdmos6vhk</p>
+      <p><img src="intensa.jpg" alt="Intensa Mente">Intensa Mente: https://1fichier.com/?910wflsfbwabgwaqpgin</p>
+      <p><img src="prince.jpg" alt="La Princesa y el Sapo">La Princesa y el Sapo: https://1fichier.com/?oe59ebtqkyzsdmos6vhk</p>
       <p>Lilo y Stitch: https://1fichier.com/?g8fcc7916795t6iy107o</p>
       <p>Enredados: https://1fichier.com/?vjqehbphhalaamg6jxxr</p>
       <!-- Agrega más contenido según sea necesario -->
