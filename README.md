@@ -69,6 +69,7 @@
   <header>
     <h1>entretenimiento esta página esta en desarrollo</h1>
     <p>para descargar copiar y pegar el link deseado</p>
+    <p>me da flojera poner toda la info</p>
   </header>
 
   <nav>
