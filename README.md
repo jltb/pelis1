@@ -88,16 +88,15 @@
       <p><img src="El asedio de Silverton.jpg" alt="El asedio de Silverton">El asedio de Silverton: https://1fichier.com/?odelt9g8zgf1ekiq0i4t</p>
       <p><img src="Sin novedad en el frente.jpg" alt="Sin novedad en el frente">Sin novedad en el frente: https://1fichier.com/?g9x75vbsqwuf8qj2qgto </p>
       <p><img src="Secuestro en directo.jpg" alt="Secuestro en directo">Secuestro en directo:https://1fichier.com/?arcru2qpk40133yxe246</p>
-      <p>Venganza Bajo cero: https://www.mediafire.com/?5xh5s467ym5o1o5</p>
-      <p>Los juegos del hambre 2013:https://www.mediafire.com/?rywf3ss6hxzb00h</p>
+      <p><img src="Venganza Bajo cero.jpg" alt="Venganza Bajo cero">Venganza Bajo cero: https://www.mediafire.com/?5xh5s467ym5o1o5</p>
+      <p><img src="Los juegos del hambre.jpg" alt="Los juegos del hambre">Los juegos del hambre 2013:https://www.mediafire.com/?rywf3ss6hxzb00h</p>
       <p>Los juegos del hambre 2012: https://1fichier.com/?v15b8rjz8yf65o7oiz2q</p>
-      <p>Los juegos del hambre: Sinsajo – Parte 1:https://1fichier.com/?19rj67y9z8ib9gn8rfr7</p>
-      <p>Los juegos del hambre: Sinsajo – Parte 2 https://1fichier.com/?emyr9w4b88cq5g0nr22z</p>
-      <p>El Precio del Mañana: https://1fichier.com/?c5ukfxuxwhj9svl71r2i</p>
-      <p>La caída del halcón negro: https://1fichier.com/?cg2vd7f0zkhdug8k1qa1</p>
-      <p>El vengador del futuro: https://1fichier.com/?xpaj25pnc9zmk8ua93jx</p>
-      <p>Misión Cóndor: https://1fichier.com/?1ex9bw7usuf1co5xira8</p>
-      <p>Corazones de hierro: https://1fichier.com/?mutydbih289jq0sxpghj</p>
+      <p><img src="Los juegos del hambre Sinsajo – Parte 1.jpg" alt="Los juegos del hambre: Sinsajo">Los juegos del hambre: Sinsajo – Parte 1:https://1fichier.com/?19rj67y9z8ib9gn8rfr7</p>
+      <p><img src="Los juegos del hambre Sinsajo – Parte 2.jpg" alt="Los juegos del hambre Sinsajo – Parte 2">Los juegos del hambre: Sinsajo – Parte 2 https://1fichier.com/?emyr9w4b88cq5g0nr22z</p>
+      <p><img src="El Precio del Mañana.jpg" alt="El Precio del Mañana">El Precio del Mañana: https://1fichier.com/?c5ukfxuxwhj9svl71r2i</p>
+      <p><img src="El vengador del futuro.jpg" alt="El vengador del futuro">El vengador del futuro: https://1fichier.com/?xpaj25pnc9zmk8ua93jx</p>
+      <p><img src="Misión Cóndor.jpg" alt="Misión Cóndor">Misión Cóndor: https://1fichier.com/?1ex9bw7usuf1co5xira8</p>
+      <p><img src="Corazones de hierro.jpg" alt="Corazones de hierro">Corazones de hierro: https://1fichier.com/?mutydbih289jq0sxpghj</p>
       <!-- Agrega más contenido según sea necesario -->
     </div>
 
