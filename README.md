@@ -121,6 +121,11 @@
   <p>Conjuro Siniestro: https://1fichier.com/?q3vuxy49u3jtx0bqmwb5</p>
   <p>La Huérfana: El Origen: https://1fichier.com/?bzr01f07qlsfs64tth6b</p>
   <p>El Exorcista: Creyentes: https://1fichier.com/?flbc7dejeu9j453qh4h7</p>
+  <p>No lo abras: https://1fichier.com/?xdg4r40h0g03d5h9eo90</p>
+  <p>Qué bello es morir: https://1fichier.com/?n08br4w208guryvvgyg9</p>
+  <p>Saw X: El juego del miedo: https://1fichier.com/?gc10c5ptt42i1sxp0a9r</p>
+  <p>Noche de Horror: https://1fichier.com/?ws0d960n3yuxghy3l7sd</p>
+  <p>Viernes negro: https://1fichier.com/?qdudrd2aq2z7lbet1xtw</p>
       <!-- Agrega más contenido según sea necesario -->
     </div>
 
@@ -140,6 +145,10 @@
       <P>Un Tiempo para Recordar: https://1fichier.com/?v0ax14vvntxknenytdw2</P>
   <p>Una Navidad Real sobre Hielo: https://1fichier.com/?ipqp7cfpol4lua9vnc59</p>
   <p>Un Amor Perfecto: https://1fichier.com/?9gue5mpcsn7taf5odk71</p>
+  <p>La versión persa: https://1fichier.com/?ofmzgdlunnnzkmcrs2ex</p>
+  <p>Rebeca: https://1fichier.com/?l78jowrx8u247c5mt0p1</p>
+  <p>Los juegos del destino:https://1fichier.com/?e8lmb8hszy3dnjz455xa </p>
+  <p>hasta que llueva: https://1fichier.com/?t7qphd8raj86c1cj37jz</p>
       <!-- Agrega más contenido según sea necesario -->
     </div>
 
@@ -151,7 +160,7 @@
       <p>Batman y Superman: La Batalla de los Súper Hijos: https://1fichier.com/?73rpn98hnghhrzvrrcu5</p>
       <p>Volver al futuro: https://1fichier.com/?ihau4bhakeei5phszk03</p>
       <p>Linterna Verde: https://1fichier.com/?dqg1e8u3ihnzdlo61a6f</p>
-     <p>Harry Potter y la Piedra Filosofal: Película en Modo Mágico: https://www.mediafire.com/file/rtwz8i2lmil384t/Harry.Potter.and.the.Philosophers.Stone.Magical.Movie.Mode.2021.HMAX.1080p.Sub.Lat.WWW.pelisenhd.NET.part1.rar/file</p>
+      <p>Harry Potter y la Piedra Filosofal: Película en Modo Mágico: https://www.mediafire.com/file/rtwz8i2lmil384t/Harry.Potter.and.the.Philosophers.Stone.Magical.Movie.Mode.2021.HMAX.1080p.Sub.Lat.WWW.pelisenhd.NET.part1.rar/file</p>
       <p>Harry Potter y la cámara secreta: https://1fichier.com/?bvbplemlscrocx005tch</p>
       <p>Harry Potter y el prisionero de Azkaban: https://1fichier.com/?zvr0pak0rk60b3wvpgae</p>
       <p>Harry Potter y el cáliz de fuego: https://1fichier.com/?98w2d2zlmkvo9a9dvuqg</p>
