@@ -80,8 +80,8 @@
       <p><img src="ronin.jpg" alt="Ronin">Ronin: https://1fichier.com/?913aj0e84deypgt5yc3i</p>
       <p><img src="Lobo Solitario McQuade.jpg" alt="Lobo Solitario McQuade">Lobo Solitario McQuade: https://1fichier.com/?i6bgpttwpokf78mq2tlo</p>
       <p><img src="La caída del halcón negro.jpg" alt="La caída del halcón negro">La caída del halcón negro: https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
-      <p>El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
-      <p>Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
+      <p><img src="El día después de mañana.jpg" alt="El día después de mañana">El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
+      <p><img src="Lift Un robo de primera clase.jpg" alt="Lift: Un robo de primera clase:">Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
       <p>Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
       <p>Misión Ataque: https://1fichier.com/?1iihnhnmydmp1obtna7x</p>
       <p>Daredevil: El hombre sin miedo: https://1fichier.com/?i6o78jq2iqo18q8ooick</p>
