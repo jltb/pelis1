@@ -71,7 +71,6 @@
     <p>para descargar copiar y pegar el link deseado</p>
     <p>me da flojera poner toda la info</p>
   </header>
-  <h2>bienvenidos a pelis1</h2>
 
   <nav>
     <!-- Contenido del menú de navegación -->
