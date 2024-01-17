@@ -85,9 +85,9 @@
       <p><img src="Juego de roles.jpg" alt="Juego de roles">Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
       <p><img src="Misión Ataque.jpg" alt="Misión Ataque">Misión Ataque: https://1fichier.com/?1iihnhnmydmp1obtna7x</p>
       <p><img src="Daredevil El hombre sin miedo.jpg" alt="Daredevil El hombre sin miedo">Daredevil: El hombre sin miedo: https://1fichier.com/?i6o78jq2iqo18q8ooick</p>
-      <p>El asedio de Silverton: https://1fichier.com/?odelt9g8zgf1ekiq0i4t</p>
-      <p>Sin novedad en el frente: https://1fichier.com/?g9x75vbsqwuf8qj2qgto </p>
-      <p>Secuestro en directo:https://1fichier.com/?arcru2qpk40133yxe246</p>
+      <p><img src="El asedio de Silverton.jpg" alt="El asedio de Silverton">El asedio de Silverton: https://1fichier.com/?odelt9g8zgf1ekiq0i4t</p>
+      <p><img src="Sin novedad en el frente.jpg" alt="Sin novedad en el frente">Sin novedad en el frente: https://1fichier.com/?g9x75vbsqwuf8qj2qgto </p>
+      <p><img src="Secuestro en directo.jpg" alt="Secuestro en directo">Secuestro en directo:https://1fichier.com/?arcru2qpk40133yxe246</p>
       <p>Venganza Bajo cero: https://www.mediafire.com/?5xh5s467ym5o1o5</p>
       <p>Los juegos del hambre 2013:https://www.mediafire.com/?rywf3ss6hxzb00h</p>
       <p>Los juegos del hambre 2012: https://1fichier.com/?v15b8rjz8yf65o7oiz2q</p>
