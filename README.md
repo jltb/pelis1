@@ -90,7 +90,7 @@
 
      Título completo: La caída del Halcón Negro (Black Hawk Down)
      Año de lanzamiento: 2001
-     Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
+Director: Ridley Scott :https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p><img src="El día después de mañana.jpg" alt="El día después de mañana">El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
       <p><img src="Lift Un robo de primera clase.jpg" alt="Lift: Un robo de primera clase:">Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
       <p><img src="Juego de roles.jpg" alt="Juego de roles">Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
