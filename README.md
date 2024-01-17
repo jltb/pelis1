@@ -82,9 +82,9 @@
       <p><img src="La caída del halcón negro.jpg" alt="La caída del halcón negro">La caída del halcón negro: https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p><img src="El día después de mañana.jpg" alt="El día después de mañana">El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
       <p><img src="Lift Un robo de primera clase.jpg" alt="Lift: Un robo de primera clase:">Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
-      <p>Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
-      <p>Misión Ataque: https://1fichier.com/?1iihnhnmydmp1obtna7x</p>
-      <p>Daredevil: El hombre sin miedo: https://1fichier.com/?i6o78jq2iqo18q8ooick</p>
+      <p><img src="Juego de roles.jpg" alt="Juego de roles">Juego de roles: https://1fichier.com/?2jy6xwaawes0hke5rhcf</p>
+      <p><img src="Misión Ataque.jpg" alt="Misión Ataque">Misión Ataque: https://1fichier.com/?1iihnhnmydmp1obtna7x</p>
+      <p><img src="Daredevil El hombre sin miedo.jpg" alt="Daredevil El hombre sin miedo">Daredevil: El hombre sin miedo: https://1fichier.com/?i6o78jq2iqo18q8ooick</p>
       <p>El asedio de Silverton: https://1fichier.com/?odelt9g8zgf1ekiq0i4t</p>
       <p>Sin novedad en el frente: https://1fichier.com/?g9x75vbsqwuf8qj2qgto </p>
       <p>Secuestro en directo:https://1fichier.com/?arcru2qpk40133yxe246</p>
