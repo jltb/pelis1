@@ -78,7 +78,7 @@
     <h2 onclick="toggleGenreBandeja('accion')">Acción</h2>
     <div class="genreBandeja" id="accionBandeja">
       <p><img src="ronin.jpg" alt="Ronin">Ronin: https://1fichier.com/?913aj0e84deypgt5yc3i</p>
-      <p><img src="Lobo Solitario McQuade" alt="Lobo Solitario McQuade">Lobo Solitario McQuade: https://1fichier.com/?i6bgpttwpokf78mq2tlo</p>
+      <p><img src="Lobo Solitario McQuade.jpg" alt="Lobo Solitario McQuade">Lobo Solitario McQuade: https://1fichier.com/?i6bgpttwpokf78mq2tlo</p>
       <p>La caída del halcón negro: https://1fichier.com/?13xx3758ld25ix1yjo9h</p>
       <p>El día después de mañana: https://1fichier.com/?027mme04r9um1lf39eyr </p>
       <p>Lift: Un robo de primera clase: https://1fichier.com/?q6649upm7rbodkfdff60 </p>
